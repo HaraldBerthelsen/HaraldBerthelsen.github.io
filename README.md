@@ -1,13 +1,7 @@
 mp3 och lite bilder:
 
-* Molly
-
-** RajRaj
-
-** Mollyfied
-
-* Lügchen
-
-** outgiven master 090127
+* Molly - RajRaj
+* Molly - Mollyfied
+* Lügchen - outgiven master 090127
 
 
